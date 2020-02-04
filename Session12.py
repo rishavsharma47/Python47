@@ -38,6 +38,7 @@ c1.increment()  # sCount = 3
 c2.increment()  # sCount = 4
 c3.increment()  # sCount = 5
 
+
 c1.decrement()  # c1/c3 sCount = 4
 c3.increment()  # c1/c3 sCount = 5
 c2.increment()  # c2    sCount = 6
